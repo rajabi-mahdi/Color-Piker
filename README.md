@@ -1,3 +1,3 @@
-#color-piker
-##preview
+# color-piker
+##  preview
 https://rajabi-mahdi.github.io/Color-Piker/
